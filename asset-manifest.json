@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fly-Bharat/static/css/main.76f88760.css",
+    "main.js": "/Fly-Bharat/static/js/main.d7fbdde0.js",
+    "static/js/453.0ea39164.chunk.js": "/Fly-Bharat/static/js/453.0ea39164.chunk.js",
+    "static/media/flight7.jpg": "/Fly-Bharat/static/media/flight7.5d8f5db40f1f2c275807.jpg",
+    "index.html": "/Fly-Bharat/index.html",
+    "main.76f88760.css.map": "/Fly-Bharat/static/css/main.76f88760.css.map",
+    "main.d7fbdde0.js.map": "/Fly-Bharat/static/js/main.d7fbdde0.js.map",
+    "453.0ea39164.chunk.js.map": "/Fly-Bharat/static/js/453.0ea39164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76f88760.css",
+    "static/js/main.d7fbdde0.js"
+  ]
+}
